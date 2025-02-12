@@ -29,3 +29,17 @@ Next Steps:
 - Set up the database connection with MongoDB.  
 - Implement JWT-based authentication.  
 - Develop initial API endpoints for users and products.
+- ## Milestone 2: Project Setup and Login Page
+
+In this milestone, the login page for the e-commerce platform was created using HTML, CSS, and JavaScript. The login page features:
+- A responsive design.
+- Form validation using JavaScript.
+- Clean and modern UI elements.
+
+The project folder now includes:
+- `index.html`: The login page structure.
+- `styles.css`: The styling for the login page.
+- `script.js`: JavaScript for form validation and interactivity.
+
+All changes have been committed and pushed to this repository.
+
